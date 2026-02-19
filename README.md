@@ -31,25 +31,41 @@ Step 7 Stop
 
 # Program 2
 Print numbers from 1 to N
+
 Step 1 Start
+
 Step 2 Read value of n from user
+
 Step 3 Initialize variable i with value 1
+
 Step 4 Check whether i is less than or equal to n
+
 Step 5 If true print value of i
+
 Step 6 Increase i by 1
+
 Step 7 Repeat steps 4 to 6 until condition becomes false
+
 Step 8 Stop
 
 # Program 3
 Find factorial of a number
 Step 1 Start
+
 Step 2 Read number n from user
+
 Step 3 Initialize fact with value 1
+
 Step 4 Check whether n is greater than 0
+
 Step 5 Multiply fact by n and store result in fact
+
 Step 6 Decrease value of n by 1
+
 Step 7 Repeat steps 4 to 6 until n becomes 0
+
 Step 8 Display factorial value
+
 Step 9 Stop
 
 # Program 4
